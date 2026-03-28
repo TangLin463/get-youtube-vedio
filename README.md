@@ -16,7 +16,7 @@
 
 ---
 
-## 系统要求与安装 *System Requirements & Installation*
+## 系统要求与安装 / System Requirements & Installation
 
 在使用前需要安装 **yt-dlp** 和 **FFmpeg** 两个工具。
 
@@ -55,7 +55,7 @@ yt-dlp -U
 2.修改脚本中的 url 为你想要下载的 YouTube 链接（每个脚本都需要手动修改）。*Modify the URL in the script to the YouTube link you want to download (this needs to be done manually for each script).*  
 3.在终端进入脚本所在目录，运行对应脚本。 *Navigate to the directory containing the script in the terminal and run the corresponding script.*
 
-### 示例命令 *Example Commands*
+### 示例命令 / Example Commands
 ```bash
 # 仅下载视频 / Video only
 python get_vedio_only.py
