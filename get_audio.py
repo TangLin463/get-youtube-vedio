@@ -3,9 +3,9 @@
 
 import subprocess, sys, os
 
-# You need to customize the following two lines of code.
-url = "https://www.youtube.com/shorts/D9h9cEvc0GU"
-output = "audio.mp3"
+# You need to customize the following two lines of code. 
+url = "https://www.youtube.com/shorts/D9h9cEvc0GU" # 填写url
+output = "audio.mp3" # 输出文件名
 
 proxy = os.environ.get('http_proxy') or os.environ.get('https_proxy')
 
